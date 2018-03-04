@@ -1,4 +1,4 @@
-from ..urls import login_urls
+from ..urls import login_register_urls
 
 
-urlpatterns = login_urls.urlpatterns
+urlpatterns = login_register_urls.urlpatterns
